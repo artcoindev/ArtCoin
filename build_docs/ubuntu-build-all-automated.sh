@@ -6,7 +6,7 @@ sudo apt-get update
 sudo apt-get install -y libdb4.8-dev libdb4.8++-dev
 mkdir $HOME/artcoin
 cd $HOME/artcoin
-git clone https://github.com/ArtCoin/artcoin.git
+git clone https://github.com/artcoindev/ArtCoin.git
 cd artcoin/src/leveldb
 chmod +x ./build_detect_platform
 cd ../

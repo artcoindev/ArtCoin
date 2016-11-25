@@ -51,7 +51,7 @@ Daemon wallet build: (Skip this section if you only want to build the full Qt GU
 --------------------
 mkdir $HOME/artcoin
 cd $HOME/artcoin
-git clone https://github.com/ArtCoin/artcoin.git
+git clone https://github.com/artcoindev/ArtCoin.git
 cd artcoin/src/leveldb
 chmod +x ./build_detect_platform
 cd ../
@@ -81,7 +81,7 @@ sudo apt-get install -y libqrencode-dev
 
 mkdir $HOME/artcoin
 cd $HOME/artcoin
-git clone https://github.com/ArtCoin/artcoin.git
+git clone https://github.com/artcoindev/ArtCoin.git
 cd artcoin/src/leveldb
 chmod +x ./build_detect_platform
 cd $HOME/artcoin/artcoin
